@@ -10,7 +10,7 @@
     "start": "cross-env NODE_ENV=production node server/index.js",
     "generate": "nuxt generate",
     "component": "node ./components/create.js",
-    "page": "node ./src/app/create.js",
+    "page": "node ./pages/create.js",
     "test": "jest"
   },
   "dependencies": {

@@ -28,7 +28,7 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    '@@/less/reset.less'
+    '@/less/reset.less'
   ],
 
   /*
