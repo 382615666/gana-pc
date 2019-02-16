@@ -1,5 +1,5 @@
 <template>
   <div>
-    啊啊
+    <article-detail></article-detail>
   </div>
 </template>
