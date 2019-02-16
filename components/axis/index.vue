@@ -21,7 +21,7 @@ export default {
   .axis-component{
     position: relative;
     height: 44px;
-    background: linear-gradient(#8d8d8c, rgba(255, 255, 255, .8), #8d8d8c) no-repeat center;
+    background: linear-gradient(#8d8d8c, #fff, #8d8d8c) no-repeat center;
     background-size: auto 28px;
     &:before,&:after{
       content: '';

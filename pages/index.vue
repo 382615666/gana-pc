@@ -30,9 +30,6 @@ export default {
       top: inherit;
       transform: inherit;
     }
-    .menu-item{
-      color: #aa8174;
-    }
     .circle{
       height: 400px;
       width: 400px;
